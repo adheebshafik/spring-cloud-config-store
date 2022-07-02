@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:mysql://localhost:3306/sample?createDatabaseifNotExist = true
+    url: jdbc:mysql://localhost:3306/rentDB?createDatabaseifNotExist = true
     username: root
     password: admin
     driver-class-name: com.mysql.jdbc.Driver
